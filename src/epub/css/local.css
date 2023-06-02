@@ -11,3 +11,9 @@
 	font-variant: small-caps;
 }
 
+
+
+#chapter-6 blockquote:first-of-type p:first-of-type{
+	font-weight: bold;
+	text-align: center;
+}
