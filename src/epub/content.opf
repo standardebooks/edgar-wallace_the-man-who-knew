@@ -45,7 +45,7 @@
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/24933</dc:source>
-		<dc:source>https://archive.org/details/manwhoknew0000edga/mode/2up</dc:source>
+		<dc:source>https://archive.org/details/manwhoknew0000edga</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Man_Who_Knew</meta>
