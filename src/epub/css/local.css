@@ -17,7 +17,7 @@ footer{
 	font-variant: small-caps;
 }
 
-#chapter-6 blockquote:first-of-type p{
+#chapter-6 blockquote{
 	font-variant: small-caps;
 	text-align: center;
 }
