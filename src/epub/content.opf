@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/edgar-wallace/the-man-who-knew</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-06-06T21:51:25Z</dc:date>
+		<meta property="dcterms:modified">2023-06-06T21:51:25Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -38,16 +38,15 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A English millionaire with a seedy past in Africa discovers that his worst fears have come true.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;John Minute, formerly a unscrupulous African mining magnate has flown to England but can’t escape his past. Constantly threatened by blackmailers, he also fears death and financial ruin. Assisted by Jasper Cole, his loyal secretary and amateur chemist, John has befriended May, the daughter of his dead former partner.&lt;/p&gt;
-			&lt;p&gt;At the sugggestion of the commisioner of police, “The Man Who Knows” is hired to assist in determining the source of the threats to John Minute.&lt;/p&gt;
-			&lt;p&gt;After John is murdered, suspicion is cast on his nephew, who calls on “The Man Who Knows” to help clear his name and cast suspicion on Jasper. The trail to the real murderer presents a big challenge even to “The Man Who Knows.”&lt;/p&gt;
+			&lt;p&gt;John Minute, formerly an unscrupulous African mining magnate, has flown to England, but can’t escape his past. Constantly threatened by blackmailers, he fears death and financial ruin. At the suggestion of the commissioner of police, “The Man Who Knows” is hired to assist in determining the source of these threats.&lt;/p&gt;
+			&lt;p&gt;But after John is murdered, suspicion is cast on his nephew, who calls on The Man Who Knows to help clear his name and cast suspicion on Jasper Cole, John’s loyal secretary. The trail to the real murderer presents a formidable challenge—even to The Man Who Knows.&lt;/p&gt;
 			&lt;p&gt;Published in 1918, &lt;i&gt;The Man Who Knew&lt;/i&gt; was adapted for film in 1961.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/24933</dc:source>
 		<dc:source>https://archive.org/details/manwhoknew0000edga</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">53289</meta>
+		<meta property="se:reading-ease.flesch">73.37</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Man_Who_Knew_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-wallace_the-man-who-knew</meta>
 		<dc:creator id="author">Edgar Wallace</dc:creator>
@@ -79,6 +78,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://weijiarhymeswith.asia</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
